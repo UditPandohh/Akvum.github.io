@@ -1362,7 +1362,7 @@ header .logo a {
 	-moz-background-size: cover;
 	background-size: cover;
 	text-align: center;
-	padding-top: 15.6rem;
+	padding-top: 22.5rem;
 	overflow: hidden;
 }
 
@@ -1382,7 +1382,7 @@ header .logo a {
 
 #intro h1 {
 	font-family: "domine-bold", serif;
-	font-size: 5.3rem;
+	font-size: 5.0rem;
 	line-height: 1.267;
 	color: #ed254d;
 	padding: 0 12%;
@@ -1401,8 +1401,8 @@ header .logo a {
 
 #intro .buttons .button:hover,
 #intro .buttons .button:focus {
-	border: 3px solid #f9da4f;
-	color: #f9da4f;
+	border: 3px solid #002a5e;
+	color: #002a5e;;
 }
 
 #intro img {
@@ -1524,7 +1524,7 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #features {
 	padding: 7rem 0 12rem;
-	background-color: #f9da4f;
+	background-color: #E8E8E8;
 	overflow: hidden;
 }
 
