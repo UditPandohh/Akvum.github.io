@@ -584,7 +584,6 @@ select {
 	border: 0;
 	outline: none;
 	vertical-align: middle;
-	color: rgba(0, 0, 0, 0.7);
 	font-family: "roboto-regular", sans-serif;
 	font-size: 1.5rem;
 	line-height: 3rem;
@@ -2332,7 +2331,7 @@ header .logo a {
 	color: rgba(255, 255, 255, 0.7);
 	background: rgba(0, 0, 0, 0.3);
 }
-#subscribe #gform input[type="name"] {
+#subscribe #gform input[type="text"] {
 	width: 100%;
 	text-align: left;
 	color: rgba(255, 255, 255, 0.7);
@@ -2355,7 +2354,7 @@ header .logo a {
 	background: #f9da4f;
 }
 
-#subscribe #mc-form label {
+#subscribe #gform label {
 	color: #FFFFFF;
 }
 
